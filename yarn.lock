@@ -322,10 +322,10 @@
   dependencies:
     cross-fetch "^3.1.4"
 
-"@iconify/json@^1.1.427":
-  version "1.1.427"
-  resolved "https://registry.yarnpkg.com/@iconify/json/-/json-1.1.427.tgz#b6cf887ad90bd70540ab60655b1a72c16c661467"
-  integrity sha512-SzZlHn/Qm7PKGFp/joMDV6r/Ykh6O7TSjW9HMmG1r80xj1vfv3H3rimwcfLR+Jfj5kMFnlv0nK3h4QjwqG8Vsg==
+"@iconify/json@^1.1.446":
+  version "1.1.446"
+  resolved "https://registry.yarnpkg.com/@iconify/json/-/json-1.1.446.tgz#5b0150b27d5b047941a546088e71e6a4114f4af0"
+  integrity sha512-d/ki5FC3UTrYFWPceQ/EDu/qCKQZFSTuPR6nWHUmTx6ywEgOhnOaak8RQIxxc1lMr3Dzp1KC2X4D8/kcqiGmvA==
 
 "@malept/cross-spawn-promise@^1.1.0":
   version "1.1.1"
