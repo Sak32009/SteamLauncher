@@ -64,7 +64,7 @@
     "@types/markdown-it": "^12.2.3",
     "@types/mustache": "^4.1.2",
     "@types/steamid": "^2.0.1",
-    "@types/tailwindcss": "^2.2.4",
+    "@types/tailwindcss": "^3.0.0",
     "@types/toastr": "^2.1.39",
     "autoprefixer": "^10.4.0",
     "concurrently": "^6.4.0",

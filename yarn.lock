@@ -555,10 +555,10 @@
   resolved "https://registry.yarnpkg.com/@types/steamid/-/steamid-2.0.1.tgz#79e164f2da554ca7d2ecf4acc80b2560d6639e4c"
   integrity sha512-B8sy9wfOOeh+yNrFFzyghCQ1n3rssYbTvZD2kXzuy3HSJEK7TVeYnrpXG/0dOKrq1VU8D7cWORgszsdqKBZnVg==
 
-"@types/tailwindcss@^2.2.4":
-  version "2.2.4"
-  resolved "https://registry.yarnpkg.com/@types/tailwindcss/-/tailwindcss-2.2.4.tgz#c3bca7d265e608ffc50a6d1a4932b5b53be14553"
-  integrity sha512-8mIk+0BoReKiaBI4e3hjaz9YDQto+rdZ2eEExHf6AfS38FZcALQ6s8mTd+74N8BtBaLnTzLdNe5GbkzObWlSXw==
+"@types/tailwindcss@^3.0.0":
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/@types/tailwindcss/-/tailwindcss-3.0.0.tgz#2f0daf9a5788d3bc9a83e5fbcab76206e130ae27"
+  integrity sha512-322KvIsPYb5ryo+I60WN2Os7uBkdkc6G6n1SGcQZJAma6bygaOkEFJVWX8yy8wKo5yhnsOHb7L4LyBrcRnN29Q==
 
 "@types/toastr@^2.1.39":
   version "2.1.39"
