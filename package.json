@@ -67,7 +67,7 @@
     "@types/tailwindcss": "^3.0.0",
     "@types/toastr": "^2.1.39",
     "autoprefixer": "^10.4.1",
-    "concurrently": "^6.5.1",
+    "concurrently": "^7.0.0",
     "electron": "^16.0.5",
     "electron-builder": "^22.14.5",
     "electron-store": "^8.0.1",
