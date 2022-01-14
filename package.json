@@ -52,7 +52,7 @@
   "devDependencies": {
     "@fontsource/oswald": "^4.5.1",
     "@iconify/iconify": "^2.1.1",
-    "@iconify/json": "1.1.455",
+    "@iconify/json": "1.1.456",
     "@tailwindcss/aspect-ratio": "^0.4.0",
     "@tailwindcss/forms": "^0.4.0",
     "@tailwindcss/line-clamp": "^0.3.1",

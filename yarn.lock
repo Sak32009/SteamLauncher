@@ -358,10 +358,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@iconify/json@npm:1.1.455":
-  version: 1.1.455
-  resolution: "@iconify/json@npm:1.1.455"
-  checksum: 704185d7182d184ccaa55fdcf1c0693cd1b6eba8275535a7255006d2be4e20edeb3db321eb241165a8ee945c9c4a9b75ac6d1e6aa26bf16278a348b7cbf0d4dd
+"@iconify/json@npm:1.1.456":
+  version: 1.1.456
+  resolution: "@iconify/json@npm:1.1.456"
+  checksum: d970aa22d3f76a51db28f5ad022693ba3124552b54b695e93cdf594a9586c268bc0bc2c8e3a519cfa1df8e4693495618a0228defba78d0918fc8cbd50b70ef03
   languageName: node
   linkType: hard
 
@@ -6577,7 +6577,7 @@ __metadata:
   dependencies:
     "@fontsource/oswald": ^4.5.1
     "@iconify/iconify": ^2.1.1
-    "@iconify/json": 1.1.455
+    "@iconify/json": 1.1.456
     "@tailwindcss/aspect-ratio": ^0.4.0
     "@tailwindcss/forms": ^0.4.0
     "@tailwindcss/line-clamp": ^0.3.1
