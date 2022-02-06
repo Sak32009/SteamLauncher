@@ -82,7 +82,7 @@
   },
   "dependencies": {
     "axios": "^0.25.0",
-    "electron-log": "^4.4.5",
+    "electron-log": "^4.4.6",
     "electron-store": "^8.0.1",
     "electron-updater": "^4.6.5",
     "fs-extra": "^10.0.0",

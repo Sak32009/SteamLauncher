@@ -2288,10 +2288,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"electron-log@npm:^4.4.5":
-  version: 4.4.5
-  resolution: "electron-log@npm:4.4.5"
-  checksum: 2d19e24783c68a379f2461fdc507b00ce9df4d814eaec8dc804fc8685c72ce9090001c604b1000cfc7337c56ddd9ef5637b31a35a3dfb049e208e3f7790c837e
+"electron-log@npm:^4.4.6":
+  version: 4.4.6
+  resolution: "electron-log@npm:4.4.6"
+  checksum: cb385a3d220eaf13ff5a7d7ae2f6421ee6b4a3cf9c4026ae66dad37fc005c04ef224a511a01731c489c82a8ed78202dd6ead99e93d0fe951bdc215684df0b3b5
   languageName: node
   linkType: hard
 
@@ -6600,7 +6600,7 @@ __metadata:
     concurrently: ^7.0.0
     electron: ^16.0.8
     electron-builder: ^22.14.13
-    electron-log: ^4.4.5
+    electron-log: ^4.4.6
     electron-store: ^8.0.1
     electron-updater: ^4.6.5
     fs-extra: ^10.0.0
