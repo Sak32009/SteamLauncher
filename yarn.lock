@@ -416,10 +416,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fontsource/oswald@npm:^4.5.3":
-  version: 4.5.3
-  resolution: "@fontsource/oswald@npm:4.5.3"
-  checksum: 1fdbbc4675908fe560182854e6672d1de1f3b5607ee114252c4fd62672c13624262bb32df92d3049c9216baf4fa986d8929daaba17c63c7a73a60912c127ea32
+"@fontsource/oswald@npm:^4.5.4":
+  version: 4.5.4
+  resolution: "@fontsource/oswald@npm:4.5.4"
+  checksum: e151764621792013a6a81be19187b117cf1c5e8bf18e7e3e1fe16aff1098106a30a4cd3f20b19c3e0cb1ff89bfd98c88f2849825582abc6feb660baf6b6de1ae
   languageName: node
   linkType: hard
 
@@ -7432,7 +7432,7 @@ __metadata:
   resolution: "steamlauncher@workspace:."
   dependencies:
     "@atao60/fse-cli": ^0.1.7
-    "@fontsource/oswald": ^4.5.3
+    "@fontsource/oswald": ^4.5.4
     "@fullhuman/postcss-purgecss": ^4.1.3
     "@mdi/font": ^6.5.95
     "@popperjs/core": ^2.11.2
