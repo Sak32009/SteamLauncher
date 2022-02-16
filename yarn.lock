@@ -5259,6 +5259,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"nanoid@npm:^3.3.1":
+  version: 3.3.1
+  resolution: "nanoid@npm:3.3.1"
+  bin:
+    nanoid: bin/nanoid.cjs
+  checksum: 4ef0969e1bbe866fc223eb32276cbccb0961900bfe79104fa5abe34361979dead8d0e061410a5c03bc3d47455685adf32c09d6f27790f4a6898fb51f7df7ec86
+  languageName: node
+  linkType: hard
+
 "natural-compare@npm:^1.4.0":
   version: 1.4.0
   resolution: "natural-compare@npm:1.4.0"
@@ -7154,7 +7163,7 @@ __metadata:
     jquery: ^3.6.0
     markdown-it: ^12.3.2
     mustache: ^4.2.0
-    nanoid: ^3.2.0
+    nanoid: ^3.3.1
     navigo: ^8.11.1
     npm-run-all: ^4.1.5
     postcss: ^8.4.6
