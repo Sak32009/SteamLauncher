@@ -2437,16 +2437,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"electron@npm:^17.0.1":
-  version: 17.0.1
-  resolution: "electron@npm:17.0.1"
+"electron@npm:^17.1.0":
+  version: 17.1.0
+  resolution: "electron@npm:17.1.0"
   dependencies:
     "@electron/get": ^1.13.0
     "@types/node": ^14.6.2
     extract-zip: ^1.0.3
   bin:
     electron: cli.js
-  checksum: 5337fea0df74482d511eafe126bb16777391eadebd22347bc5717850e811e999e48eacfaf55c546b3eba49262e2f84a8a481c93f4136d3411c91b21a4f4693a8
+  checksum: 3ebb0cee801aedf5efde7982f582e7829cb4f922b9c337d475978a127f8f4deb65349ca23b8b8596f5925a2a72e13192320eb9f9645d4a5cfa34e24e9088377e
   languageName: node
   linkType: hard
 
@@ -7195,7 +7195,7 @@ __metadata:
     axios: ^0.26.0
     bootstrap: ^5.1.3
     concurrently: ^7.0.0
-    electron: ^17.0.1
+    electron: ^17.1.0
     electron-builder: ^22.14.13
     electron-log: ^4.4.6
     electron-store: ^8.0.1
