@@ -6366,6 +6366,17 @@ __metadata:
   languageName: node
   linkType: hard
 
+"postcss@npm:^8.4.7":
+  version: 8.4.7
+  resolution: "postcss@npm:8.4.7"
+  dependencies:
+    nanoid: ^3.3.1
+    picocolors: ^1.0.0
+    source-map-js: ^1.0.2
+  checksum: a515ed36622edbee1d3ba153298d3b62ae9826dfa6de19204c2a6f975c8d3ad36808423b5119a9d82b78efd486de3ce35a1faf882a36ac8aa09492be4fbb7fe1
+  languageName: node
+  linkType: hard
+
 "prelude-ls@npm:^1.2.1":
   version: 1.2.1
   resolution: "prelude-ls@npm:1.2.1"
@@ -7221,7 +7232,7 @@ __metadata:
     nanoid: ^3.3.1
     navigo: ^8.11.1
     npm-run-all: ^4.1.5
-    postcss: ^8.4.6
+    postcss: ^8.4.7
     postcss-import: ^14.0.2
     postcss-nesting: ^10.1.2
     postcss-preset-env: ^7.4.1
