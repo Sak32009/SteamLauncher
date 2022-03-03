@@ -408,14 +408,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@tailwindcss/forms@npm:^0.4.0":
-  version: 0.4.0
-  resolution: "@tailwindcss/forms@npm:0.4.0"
+"@tailwindcss/forms@npm:^0.5.0":
+  version: 0.5.0
+  resolution: "@tailwindcss/forms@npm:0.5.0"
   dependencies:
     mini-svg-data-uri: ^1.2.3
   peerDependencies:
     tailwindcss: ">=3.0.0 || >= 3.0.0-alpha.1"
-  checksum: 881a80b136f22b3da68323166ddfbcd844841f711d75ce4d64479302ae523ac7c1fe8a3bb57370216e6da69303640d70d543ecdb3ec2086f1ddf428a6c13566f
+  checksum: 3e57584871bc41947f2a1518deaf69894b75745dee959bb2ba475c819eadec2b86f8bf6e73a051ddab627df4c8c3ad1d18239d48b3a95211be3b11a04dee0511
   languageName: node
   linkType: hard
 
@@ -7183,7 +7183,7 @@ __metadata:
     "@mdi/font": ^6.5.95
     "@popperjs/core": ^2.11.2
     "@tailwindcss/aspect-ratio": ^0.4.0
-    "@tailwindcss/forms": ^0.4.0
+    "@tailwindcss/forms": ^0.5.0
     "@tailwindcss/line-clamp": ^0.3.1
     "@tailwindcss/typography": ^0.5.2
     "@types/bootstrap": ^5.1.9
