@@ -539,10 +539,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fontsource/oswald@npm:^4.5.4":
-  version: 4.5.4
-  resolution: "@fontsource/oswald@npm:4.5.4"
-  checksum: e151764621792013a6a81be19187b117cf1c5e8bf18e7e3e1fe16aff1098106a30a4cd3f20b19c3e0cb1ff89bfd98c88f2849825582abc6feb660baf6b6de1ae
+"@fontsource/oswald@npm:^4.5.5":
+  version: 4.5.5
+  resolution: "@fontsource/oswald@npm:4.5.5"
+  checksum: 3fb224829ca6c7c6e7db30d20f350469477d664bd4634daadcc3e4fb479720473c4d0a634552d6623c2e91631bdf894b1e353d14dcf399ccf69b1be0d0e50fd3
   languageName: node
   linkType: hard
 
@@ -8032,7 +8032,7 @@ __metadata:
   dependencies:
     "@atao60/fse-cli": ^0.1.7
     "@babel/core": ^7.17.5
-    "@fontsource/oswald": ^4.5.4
+    "@fontsource/oswald": ^4.5.5
     "@fullhuman/postcss-purgecss": ^4.1.3
     "@mdi/font": ^6.5.95
     "@popperjs/core": ^2.11.2
