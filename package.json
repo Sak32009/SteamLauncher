@@ -47,7 +47,7 @@
   },
   "devDependencies": {
     "@atao60/fse-cli": "^0.1.7",
-    "@babel/core": "^7.17.8",
+    "@babel/core": "^7.17.9",
     "@fontsource/cascadia-code": "^4.2.1",
     "@fontsource/oswald": "^4.5.7",
     "@mdi/font": "^6.6.96",
