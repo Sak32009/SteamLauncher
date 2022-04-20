@@ -344,13 +344,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/bootstrap@npm:^5.1.9":
-  version: 5.1.9
-  resolution: "@types/bootstrap@npm:5.1.9"
+"@types/bootstrap@npm:^5.1.10":
+  version: 5.1.10
+  resolution: "@types/bootstrap@npm:5.1.10"
   dependencies:
     "@popperjs/core": ^2.9.2
     "@types/jquery": "*"
-  checksum: cf04f09f378c8d0de7f203873daf61c74e37e303d663197deb4cf3fa6239ff5ed3090bcb7ae8ac6d33374fc8bbbb4550ae1a67ff51f15f43d3c50f318ab62473
+  checksum: ada4c68cd8a6dbfee75eca58deabf3f2ae82706a8dd9d97a233eb303a787462f120940002ac3f58cf42c4732280c68a9f67a58cd7c4bf39112024cafe70d3028
   languageName: node
   linkType: hard
 
@@ -5913,7 +5913,7 @@ __metadata:
     "@tailwindcss/line-clamp": ^0.3.1
     "@tailwindcss/typography": ^0.5.2
     "@types/adm-zip": ^0.5.0
-    "@types/bootstrap": ^5.1.9
+    "@types/bootstrap": ^5.1.10
     "@types/ini": ^1.3.31
     "@types/jquery": ^3.5.14
     "@types/markdown-it": ^12.2.3
