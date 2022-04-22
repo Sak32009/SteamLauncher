@@ -2504,10 +2504,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-define-config@npm:^1.3.0":
-  version: 1.3.0
-  resolution: "eslint-define-config@npm:1.3.0"
-  checksum: 9d23105dd079cb2db412e884b125258599a790c39db149f9b1ea2ef7c8469adc4c9b8d1f783c0124e4d33a9d1d644e1bac756cab3739ab0cf043343fd281a364
+"eslint-define-config@npm:^1.4.0":
+  version: 1.4.0
+  resolution: "eslint-define-config@npm:1.4.0"
+  checksum: eed5f184207dea2fdffe41395f45b69ec3b8218165870b97579492eb0d8ba5bf84fd8419f0f275e632a73ce5094c5790d03329dd087555b7fecc40774da4efb2
   languageName: node
   linkType: hard
 
@@ -5934,7 +5934,7 @@ __metadata:
     electron-updater: ^5.0.2
     eslint: ^8.13.0
     eslint-config-prettier: ^8.5.0
-    eslint-define-config: ^1.3.0
+    eslint-define-config: ^1.4.0
     eslint-import-resolver-typescript: ^2.7.1
     eslint-plugin-compat: ^4.0.2
     eslint-plugin-eslint-comments: ^3.2.0
