@@ -95,7 +95,7 @@
   },
   "dependencies": {
     "adm-zip": "^0.5.9",
-    "axios": "^0.26.1",
+    "axios": "^0.27.2",
     "conf": "^10.1.2",
     "electron-updater": "^5.0.2",
     "fast-glob": "^3.2.11",
