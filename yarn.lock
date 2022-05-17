@@ -128,10 +128,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@fontsource/oswald@npm:^4.5.7":
-  version: 4.5.7
-  resolution: "@fontsource/oswald@npm:4.5.7"
-  checksum: 95a2c0fcf79c572eb6a4493a0885d7abadf3b06deeaec060d1a8ce8b5048775b54c9031f1c976def78e47e9e90232321abb0822467da3b1c66255c20ea23a76e
+"@fontsource/oswald@npm:^4.5.9":
+  version: 4.5.9
+  resolution: "@fontsource/oswald@npm:4.5.9"
+  checksum: 041f97c7dd187d1ab6d2ccb490fe1823d8f72d0d2b4c2d196167e4e02050675c0657407cb44b72fd93ab270b630b21e9421128695568741f850811729ce0ce5f
   languageName: node
   linkType: hard
 
@@ -6014,7 +6014,7 @@ __metadata:
   resolution: "steamlauncher@workspace:."
   dependencies:
     "@fontsource/cascadia-code": ^4.2.1
-    "@fontsource/oswald": ^4.5.7
+    "@fontsource/oswald": ^4.5.9
     "@mdi/font": ^6.6.96
     "@popperjs/core": ^2.11.5
     "@tailwindcss/aspect-ratio": ^0.4.0
