@@ -181,10 +181,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@mdi/font@npm:^6.6.96":
-  version: 6.6.96
-  resolution: "@mdi/font@npm:6.6.96"
-  checksum: d305fa4a9e572cfebc148676d80f4d193dfc423850c8172c0585ceda6e0e041ea0eed26b2aed444d0e51bba419b7085452484cfaa5463de0ee58666982e1c5b9
+"@mdi/font@npm:^6.7.96":
+  version: 6.7.96
+  resolution: "@mdi/font@npm:6.7.96"
+  checksum: 4ecd236ccb9d06e4ccc9d0ebf5c3e16b208550ae02872a5ce87874bd8aa07f0ad20cb80206f62632f2f4629a2777942f73c9e9267e0ce6fd710be31746a67911
   languageName: node
   linkType: hard
 
@@ -6015,7 +6015,7 @@ __metadata:
   dependencies:
     "@fontsource/cascadia-code": ^4.2.1
     "@fontsource/oswald": ^4.5.7
-    "@mdi/font": ^6.6.96
+    "@mdi/font": ^6.7.96
     "@popperjs/core": ^2.11.5
     "@tailwindcss/aspect-ratio": ^0.4.0
     "@tailwindcss/forms": ^0.5.1
