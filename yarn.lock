@@ -344,13 +344,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/bootstrap@npm:^5.1.10":
-  version: 5.1.10
-  resolution: "@types/bootstrap@npm:5.1.10"
+"@types/bootstrap@npm:^5.1.12":
+  version: 5.1.12
+  resolution: "@types/bootstrap@npm:5.1.12"
   dependencies:
     "@popperjs/core": ^2.9.2
-    "@types/jquery": "*"
-  checksum: ada4c68cd8a6dbfee75eca58deabf3f2ae82706a8dd9d97a233eb303a787462f120940002ac3f58cf42c4732280c68a9f67a58cd7c4bf39112024cafe70d3028
+  checksum: 87e7b093c2d4cf9fe8b24b5d045b75ebee6ae39b321c407361df985bfa6be9de4c1194042ba1c19d97c8d547d077ab3e80c421a2d64380c25b17618c9aad874e
   languageName: node
   linkType: hard
 
@@ -386,15 +385,6 @@ __metadata:
   version: 1.3.31
   resolution: "@types/ini@npm:1.3.31"
   checksum: aca4fed0cd68f6693fd64e1b7d188a9c8c6f5823b2e3501b0570135555d4184d7d0dfba2c1afb3514c94cb21ece732f4467ea98c827d1b1b98716827ac9de680
-  languageName: node
-  linkType: hard
-
-"@types/jquery@npm:*":
-  version: 3.5.11
-  resolution: "@types/jquery@npm:3.5.11"
-  dependencies:
-    "@types/sizzle": "*"
-  checksum: bad7c4495ade39e712462af534169790115d07874bb1a8c43a597676bd4e4d62caaf961353836f1e9f67309cac3a224b8743da07bad4cb2ff853b93f1856014b
   languageName: node
   linkType: hard
 
@@ -6022,7 +6012,7 @@ __metadata:
     "@tailwindcss/line-clamp": ^0.4.0
     "@tailwindcss/typography": ^0.5.2
     "@types/adm-zip": ^0.5.0
-    "@types/bootstrap": ^5.1.10
+    "@types/bootstrap": ^5.1.12
     "@types/ini": ^1.3.31
     "@types/jquery": ^3.5.14
     "@types/markdown-it": ^12.2.3
