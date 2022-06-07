@@ -5801,7 +5801,7 @@ __metadata:
     sass: ^1.52.2
     steamid: ^2.0.0
     typescript: ^4.7.3
-    vite: ^2.9.9
+    vite: ^2.9.10
     winston: ^3.7.2
   languageName: unknown
   linkType: soft
@@ -6325,9 +6325,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vite@npm:^2.9.9":
-  version: 2.9.9
-  resolution: "vite@npm:2.9.9"
+"vite@npm:^2.9.10":
+  version: 2.9.10
+  resolution: "vite@npm:2.9.10"
   dependencies:
     esbuild: ^0.14.27
     fsevents: ~2.3.2
@@ -6350,7 +6350,7 @@ __metadata:
       optional: true
   bin:
     vite: bin/vite.js
-  checksum: 9292b8ba510a393d0c61c407ebfb4eaa818b2d8d106b3476cdc94cb57a0c59348a535936d698db04b35910a1cfdb16aeaf872f0f995b54cf6d7ed31bc7886deb
+  checksum: 37a4eafdb0990e496a27903b0722f1a5d13c622338a885f66d9b4da955ac40cb567e7e8bc97aac50c3f2a385f10a2e03bc9d5c14bf8a8bd0a1fbf6321c0d3562
   languageName: node
   linkType: hard
 
