@@ -1998,9 +1998,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"electron-updater@npm:^5.0.5":
-  version: 5.0.5
-  resolution: "electron-updater@npm:5.0.5"
+"electron-updater@npm:^5.0.6":
+  version: 5.0.6
+  resolution: "electron-updater@npm:5.0.6"
   dependencies:
     "@types/semver": ^7.3.6
     builder-util-runtime: 9.0.2
@@ -2011,7 +2011,7 @@ __metadata:
     lodash.isequal: ^4.5.0
     semver: ^7.3.5
     typed-emitter: ^2.1.0
-  checksum: bc288c4bf1f3a3d123802c6c91dfce9d56edab707be8aedda9d4f4fdc7102071281592cdfddf54f5c3d4ccdd5dbff9efa5beb43c6d34e095b043e2a45edf3a0c
+  checksum: 92322ddf320b4ff411639dacdc48527dacbad2b61dc75e4bde8c03709ca2ab45fcb7c225317a67fff43fa36f1a8dad51840b9181c95fb6469b8a80a0dcef0db4
   languageName: node
   linkType: hard
 
@@ -5856,7 +5856,7 @@ __metadata:
     conf: ^10.1.2
     electron: ^19.0.4
     electron-builder: ^23.1.0
-    electron-updater: ^5.0.5
+    electron-updater: ^5.0.6
     eslint: ^8.17.0
     eslint-config-sak32009: "https://github.com/Sak32009/eslint-config-sak32009.git#commit=46c7bde2bbda84333fea98c092694f73a463cac5"
     fast-glob: ^3.2.11
