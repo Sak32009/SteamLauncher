@@ -772,9 +772,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"app-builder-lib@npm:23.1.0":
-  version: 23.1.0
-  resolution: "app-builder-lib@npm:23.1.0"
+"app-builder-lib@npm:23.2.0":
+  version: 23.2.0
+  resolution: "app-builder-lib@npm:23.2.0"
   dependencies:
     7zip-bin: ~5.1.1
     "@develar/schema-utils": ~2.6.5
@@ -802,7 +802,7 @@ __metadata:
     semver: ^7.3.7
     tar: ^6.1.11
     temp-file: ^3.4.0
-  checksum: f88982d3f9d1f9680371fa6a6f28082dcce8b0501432898ab09e70068586aa7c534512c4fdd1cd8b070981ee6c4bfad2c3ce192efee4ee77d896b3ca2635155a
+  checksum: b16da4f536a0d50a27378f753e176e0125668685f8dc23d300732e5d21f1c760e02548cab657660822d062c68f1ee16d2f03862293d4fd005cbac2d6698d868d
   languageName: node
   linkType: hard
 
@@ -1825,11 +1825,11 @@ __metadata:
   languageName: node
   linkType: hard
 
-"dmg-builder@npm:23.1.0":
-  version: 23.1.0
-  resolution: "dmg-builder@npm:23.1.0"
+"dmg-builder@npm:23.2.0":
+  version: 23.2.0
+  resolution: "dmg-builder@npm:23.2.0"
   dependencies:
-    app-builder-lib: 23.1.0
+    app-builder-lib: 23.2.0
     builder-util: 23.0.9
     builder-util-runtime: 9.0.2
     dmg-license: ^1.0.11
@@ -1839,7 +1839,7 @@ __metadata:
   dependenciesMeta:
     dmg-license:
       optional: true
-  checksum: e6b2ec5a6feca5b92a8a99c1d2638999b01f82fa86ced9cbf6b18eb223a9cbcfbff861a404d4e2998f04d623061489eacaba7f511891f53f194f5f08fee9d34d
+  checksum: 052c154733d96435281c5ca619b2be82097bff25cc7daa7f456259edb87636285523f224cf467873d00f70324777253165cfe3948deff8f31d1639c43dbf8aea
   languageName: node
   linkType: hard
 
@@ -1929,16 +1929,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"electron-builder@npm:^23.1.0":
-  version: 23.1.0
-  resolution: "electron-builder@npm:23.1.0"
+"electron-builder@npm:^23.2.0":
+  version: 23.2.0
+  resolution: "electron-builder@npm:23.2.0"
   dependencies:
     "@types/yargs": ^17.0.1
-    app-builder-lib: 23.1.0
+    app-builder-lib: 23.2.0
     builder-util: 23.0.9
     builder-util-runtime: 9.0.2
     chalk: ^4.1.1
-    dmg-builder: 23.1.0
+    dmg-builder: 23.2.0
     fs-extra: ^10.0.0
     is-ci: ^3.0.0
     lazy-val: ^1.0.5
@@ -1948,7 +1948,7 @@ __metadata:
   bin:
     electron-builder: cli.js
     install-app-deps: install-app-deps.js
-  checksum: 189f97152ed903fda43f1e3acb13f6bdc44603ac14fd1cf09b91ae389b08eb3970de833de0f25757eb3f8dfb2c0b93f37bacc37956eae795e8d00346892c5821
+  checksum: 73be64f3aab3db8a8522cf7b43c3a49292614e37340c621d0e577b0854661471f61baa9771d6be1abccba30937cf1999aa05e90138bb41ed346e9feb34a0b6e8
   languageName: node
   linkType: hard
 
@@ -5855,7 +5855,7 @@ __metadata:
     concurrently: ^7.2.2
     conf: ^10.1.2
     electron: ^19.0.4
-    electron-builder: ^23.1.0
+    electron-builder: ^23.2.0
     electron-updater: ^5.0.5
     eslint: ^8.17.0
     eslint-config-sak32009: "https://github.com/Sak32009/eslint-config-sak32009.git#commit=46c7bde2bbda84333fea98c092694f73a463cac5"
