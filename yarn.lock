@@ -955,14 +955,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"axios-cache-interceptor@npm:^0.10.5":
-  version: 0.10.5
-  resolution: "axios-cache-interceptor@npm:0.10.5"
+"axios-cache-interceptor@npm:^0.10.6":
+  version: 0.10.6
+  resolution: "axios-cache-interceptor@npm:0.10.6"
   dependencies:
     cache-parser: ^1.2.4
     fast-defer: ^1.1.7
     object-code: ^1.2.4
-  checksum: 8b8f3b9f4a9a7975f54eeccf9e0f4fc7cec25e458e21b2c54efff5ebc4f279f575874f584fc24271cf968ddce2b3dc84f26031462b0cfc1f4892a59883f8d4a0
+  checksum: dd5a69f1933ce3ee75dd4d9941159c6bdb242f0b1f5b8bfb58d833213e6d31d215193de3c1c2a515be589b351d569c0995c6d0dfd6cfa09a3399ac0081b87d63
   languageName: node
   linkType: hard
 
@@ -5850,7 +5850,7 @@ __metadata:
     adm-zip: ^0.5.9
     autoprefixer: ^10.4.7
     axios: ^0.27.2
-    axios-cache-interceptor: ^0.10.5
+    axios-cache-interceptor: ^0.10.6
     bootstrap: 5.2.0-beta1
     concurrently: ^7.2.2
     conf: ^10.1.2

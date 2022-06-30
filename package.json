@@ -73,7 +73,7 @@
   "dependencies": {
     "adm-zip": "^0.5.9",
     "axios": "^0.27.2",
-    "axios-cache-interceptor": "^0.10.5",
+    "axios-cache-interceptor": "^0.10.6",
     "conf": "^10.1.2",
     "electron-updater": "^5.0.5",
     "fast-glob": "^3.2.11",
