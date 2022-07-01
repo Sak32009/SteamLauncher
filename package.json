@@ -44,7 +44,7 @@
     "postinstall": "yarn electron-builder install-app-deps"
   },
   "devDependencies": {
-    "@mdi/font": "^6.7.96",
+    "@mdi/font": "^6.9.96",
     "@types/adm-zip": "^0.5.0",
     "@types/bootstrap": "^5.1.12",
     "@types/ini": "^1.3.31",
