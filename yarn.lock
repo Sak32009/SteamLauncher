@@ -5875,7 +5875,7 @@ __metadata:
     sass: ^1.53.0
     steamid: ^2.0.0
     typescript: ^4.7.4
-    vite: ^2.9.13
+    vite: ^2.9.14
     winston: ^3.8.1
     winston-daily-rotate-file: ^4.7.1
     yargs: ^17.5.1
@@ -6401,9 +6401,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vite@npm:^2.9.13":
-  version: 2.9.13
-  resolution: "vite@npm:2.9.13"
+"vite@npm:^2.9.14":
+  version: 2.9.14
+  resolution: "vite@npm:2.9.14"
   dependencies:
     esbuild: ^0.14.27
     fsevents: ~2.3.2
@@ -6426,7 +6426,7 @@ __metadata:
       optional: true
   bin:
     vite: bin/vite.js
-  checksum: a5e501b920a448c352e9b3836019dea56c523535f8e8540160708c2e164d84da6655ae39abbba1e2888092f5c6cd03dd06279852422359b51be601914645f49f
+  checksum: f78b54f58482ea97d385e36873ae1aa4744c5e467c1d6d4e0835bd55494d2d8f6ce763f17c241c66104be687d5ee535b8e1e96c14210c9ba0c343fe78c58f694
   languageName: node
   linkType: hard
 
