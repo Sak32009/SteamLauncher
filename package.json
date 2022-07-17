@@ -58,7 +58,7 @@
     "concurrently": "^7.2.2",
     "electron": "^19.0.7",
     "electron-builder": "^23.2.0",
-    "eslint": "^8.19.0",
+    "eslint": "^8.20.0",
     "eslint-config-sak32009": "https://github.com/Sak32009/eslint-config-sak32009.git#commit=46c7bde2bbda84333fea98c092694f73a463cac5",
     "github-markdown-css": "^5.1.0",
     "jquery": "^3.6.0",
