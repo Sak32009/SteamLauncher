@@ -281,12 +281,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/bootstrap@npm:^5.1.12":
-  version: 5.1.12
-  resolution: "@types/bootstrap@npm:5.1.12"
+"@types/bootstrap@npm:^5.2.0":
+  version: 5.2.0
+  resolution: "@types/bootstrap@npm:5.2.0"
   dependencies:
     "@popperjs/core": ^2.9.2
-  checksum: 87e7b093c2d4cf9fe8b24b5d045b75ebee6ae39b321c407361df985bfa6be9de4c1194042ba1c19d97c8d547d077ab3e80c421a2d64380c25b17618c9aad874e
+  checksum: 887f991d647fd59b3cbdb3fc65bd427887bd41896b689d41b9bc96eac9331eb3dbe5475b62fb339dfcfd31a29f8b7752daad2a5f2f87203dbca24cbb22f1edea
   languageName: node
   linkType: hard
 
@@ -1020,12 +1020,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"bootstrap@npm:5.2.0-beta1":
-  version: 5.2.0-beta1
-  resolution: "bootstrap@npm:5.2.0-beta1"
+"bootstrap@npm:5.2.0":
+  version: 5.2.0
+  resolution: "bootstrap@npm:5.2.0"
   peerDependencies:
     "@popperjs/core": ^2.11.5
-  checksum: 742892b60e6004fdc8b82d4f72eda4409bde7b7f0974b703d85144e77285fb950add0f08dbb35f244e3bfa6e0ecdcb674ee84c2f7610135220af947da4fe2c12
+  checksum: 9dbfb5d26bbdac3e27a6b46cb7456cd4dd75ae3b48644737809885b8ea9c265d3359c4cdbf25a55bb7e5046f51e441557033ba21eeaf24ef8316bfbb3d420084
   languageName: node
   linkType: hard
 
@@ -5840,7 +5840,7 @@ __metadata:
   dependencies:
     "@mdi/font": ^6.9.96
     "@types/adm-zip": ^0.5.0
-    "@types/bootstrap": ^5.1.12
+    "@types/bootstrap": ^5.2.0
     "@types/ini": ^1.3.31
     "@types/jquery": ^3.5.14
     "@types/markdown-it": ^12.2.3
@@ -5851,7 +5851,7 @@ __metadata:
     autoprefixer: ^10.4.7
     axios: ^0.27.2
     axios-cache-interceptor: ^0.10.6
-    bootstrap: 5.2.0-beta1
+    bootstrap: 5.2.0
     concurrently: ^7.2.2
     conf: ^10.1.2
     electron: ^19.0.7
